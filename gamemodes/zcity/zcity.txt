@@ -1,0 +1,8 @@
+"lol-city"
+{
+	"base"			"base"
+	"title"			"lol-city"
+	"maps"			"^hmcd_|^md_|^mu_|^murder_|^zc|^zb"
+	"menusystem"	"1"
+	"category"		"pvp"
+}
